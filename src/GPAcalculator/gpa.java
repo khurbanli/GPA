@@ -1,3 +1,5 @@
+package GPAcalculator;
+
 import java.util.Scanner;
 
 public class gpa {
