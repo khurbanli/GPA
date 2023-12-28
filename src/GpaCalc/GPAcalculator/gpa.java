@@ -1,4 +1,4 @@
-package GPAcalculator;
+package GpaCalc.GPAcalculator;
 
 import java.util.Scanner;
 
