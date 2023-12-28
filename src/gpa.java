@@ -1,5 +1,3 @@
-package GpaCalc.GPAcalculator;
-
 import java.util.Scanner;
 
 public class gpa {
